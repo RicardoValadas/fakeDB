@@ -2,19 +2,22 @@
 	"users": [{
 			"id": 1,
 			"name": "Ricardo",
-			"age": 25
+			"age": 25,
+			"location":"Esch"
 		},
 
 		{
 			"id": 2,
 			"name": "Richard",
-			"age": 40
+			"age": 40,
+			"location":"Luxembourg"
 		},
 
 		{
 			"id": 3,
 			"name": "Ric",
-			"age": 50
+			"age": 50,
+			"location":"Steinsel"
 		}
 	]
 }
