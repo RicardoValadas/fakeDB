@@ -1,1 +1,1 @@
-# fakeDB
+FakeDB for learning and projects
