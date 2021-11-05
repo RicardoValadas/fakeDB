@@ -5,7 +5,7 @@
 			"age": 2,
 			"location":"Esch",
 			"description":"No description",
-			"Nationality":"Portuguese"
+			"nationality":"Portuguese"
 		},
 
 		{
@@ -14,7 +14,7 @@
 			"age": 42,
 			"location":"Luxembourg",
 			"description":"Hello my name is...",
-			"Nationality":"Luxembourgish"
+			"nationality":"Luxembourgish"
 		},
 
 		{
@@ -23,7 +23,7 @@
 			"age": 50,
 			"location":"Steinsel",
 			"description":"No description",
-			"Nationality":"French"
+			"nationality":"French"
 		}
 	]
 }
