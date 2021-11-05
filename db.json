@@ -3,21 +3,27 @@
 			"id": 1,
 			"name": "Ricardo",
 			"age": 2,
-			"location":"Esch"
+			"location":"Esch",
+			"description":"No description",
+			"Nationality":"Portuguese"
 		},
 
 		{
 			"id": 2,
 			"name": "Richard",
 			"age": 42,
-			"location":"Luxembourg"
+			"location":"Luxembourg",
+			"description":"Hello my name is...",
+			"Nationality":"Luxembourgish"
 		},
 
 		{
 			"id": 3,
 			"name": "Ric",
 			"age": 50,
-			"location":"Steinsel"
+			"location":"Steinsel",
+			"description":"No description",
+			"Nationality":"French"
 		}
 	]
 }
